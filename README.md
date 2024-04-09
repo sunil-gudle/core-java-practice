@@ -1,2 +1,2 @@
 # core-java-practice
-practice programs will added to this repo
+practice programs will be added to this repo

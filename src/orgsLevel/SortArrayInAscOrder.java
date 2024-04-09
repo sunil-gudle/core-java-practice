@@ -9,7 +9,7 @@ Output: 001
 Explanation: Os 1s and 2s are segregated into ascending order*/
 
 
-package src;
+package src.orgsLevel;
 
 public class SortArrayInAscOrder {
     public static void main(String[] args) {

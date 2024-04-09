@@ -8,7 +8,7 @@ Example 2:
 Input: n = 11 arr[]={10,20,30,40,50,60,70,80,90,100,110}
 Output:110 10 100 20 90 30 80 40 70 50 60*/
 
-package src;
+package src.orgsLevel;
 
 public class RearrangeArrayAlternatively {
     public static void main(String[] args) {
