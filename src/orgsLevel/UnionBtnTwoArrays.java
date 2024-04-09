@@ -9,7 +9,7 @@
         Explanation:1,2,3,4and 5are the elements which comes in the union set of both arrays.So count is 5.*/
 
 
-        package src;
+        package src.orgsLevel;
 
 import java.util.HashSet;
 
