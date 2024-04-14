@@ -41,7 +41,7 @@ public class AddTwoComplexNumbers {
         return res;
     }
 
-    public static void main(String arg[]) {
+    public static void main(String[] args) {
 
         // Creating two complex numbers
         AddTwoComplexNumbers c1 = new AddTwoComplexNumbers(4, 5);
