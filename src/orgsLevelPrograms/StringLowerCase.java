@@ -3,7 +3,7 @@ Examples:
 Input: bbccdefbbaa
 Output: aabbbbccdef*/
 
-package src.orgsLevel;
+package src.orgsLevelPrograms;
 
 public class StringLowerCase {
     public static void main(String[] args) {
