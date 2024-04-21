@@ -9,7 +9,7 @@ class ArrayTraversal {
 
         int index = 0;
         while (index<arr.length){
-            System.out.println(arr[index]);
+            System.out.print(arr[index] + " ");
             index++;
         }
 
