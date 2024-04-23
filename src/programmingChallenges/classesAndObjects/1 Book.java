@@ -11,7 +11,7 @@ class Book {
         totalBooks = 0;
     }
 
-    { // object init
+     { // object init
         totalBooks++;
     }
 
