@@ -2,7 +2,7 @@ package src.programmingChallenges.controlStatementsMathsAndString;
 
 import java.util.Scanner;
 
-public class RecursionDemo1 {
+class RecursionDemo1 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Welcome to factorial by using recursive method\n");
