@@ -15,6 +15,6 @@ public class FindDistinctChars {
         System.out.println("distinct chars size: " +set.size());
 
         for (Object s:set)
-        System.out.println(s);
+        System.out.print(s);
     }
 }
