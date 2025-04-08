@@ -8,22 +8,20 @@ public class StringPalindrome {
         System.out.print("Please enter the string: ");
         String str = scanner.nextLine();
 
-        if (isPalindrome(str)){
-            System.out.println("Given string is palindrome: "+ str);
-        }else {
-            System.out.println("Given string is not a palindrome: "+ str);
+        if (isPalindrome(str)) {
+            System.out.println("Given string is palindrome: " + str);
+        } else {
+            System.out.println("Given string is not a palindrome: " + str);
         }
-
-
     }
 
-    public static boolean isPalindrome(String str){
+    public static boolean isPalindrome(String str) {
         str = str.replaceAll("[^a-zA-Z0-9]", "").toLowerCase();
         int left = 0;
-        int right = str.length()-1;
+        int right = str.length() - 1;
 
-        while (left < right){
-            if (str.charAt(left)!=str.charAt(right)){
+        while (left < right) {
+            if (str.charAt(left) != str.charAt(right)) {
                 return false;
             }
             left++;
