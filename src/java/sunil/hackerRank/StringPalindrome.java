@@ -1,6 +1,7 @@
 package src.java.sunil.hackerRank;
-
 import java.util.Scanner;
+
+// check whether the given string is palindrome or not
 
 public class StringPalindrome {
     public static void main(String[] args) {
