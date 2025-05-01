@@ -1,5 +1,7 @@
 package src.java.sunil.hackerRank;
 
+// Find the number of alphabetic tokens in a string in java
+
 public class NumberOfAlphabeticTokens {
     public static void main(String[] args) {
         String str = "Sunil gudle from maharashtra 413541, currently living in Blr";
